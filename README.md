@@ -2,7 +2,7 @@
 
 Watch the video tutorial here: https://youtu.be/jCz5FbCQ098
 
-Get your AssemblyAI API key here: https://www.assemblyai.com/?utm_source=youtube&utm_medium=referral&utm_campaign=yt_mis_58
+[Get your AssemblyAI API key here](https://www.assemblyai.com/?utm_source=youtube&utm_medium=referral&utm_campaign=yt_mis_58)
 
 Andrew Huberman is a very successful podcaster. He generally talks about wellness and health in his podcast, has interesting guests over and has millions of listens on every episode. And he has a great website where you can search for keywords to find corresponding podcast episodes or parts of episodes where he discusses these topics. 
 
